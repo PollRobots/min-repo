@@ -1,0 +1,59 @@
+error: Expecting 2
+ --> tests/fail/math.rs:6:9
+  |
+6 |         1,
+  |         ^
+
+error: Expecting fizz
+ --> tests/fail/math.rs:7:9
+  |
+7 |         3,
+  |         ^
+
+error: Expecting buzz
+ --> tests/fail/math.rs:9:9
+  |
+9 |         5,
+  |         ^
+
+error: Expecting fizz
+  --> tests/fail/math.rs:10:9
+   |
+10 |         6,
+   |         ^
+
+error: Expecting fizz
+  --> tests/fail/math.rs:13:9
+   |
+13 |         7,
+   |         ^
+
+error: Expecting buzz
+  --> tests/fail/math.rs:14:9
+   |
+14 |         8,
+   |         ^
+
+error: Expecting fizz
+  --> tests/fail/math.rs:16:9
+   |
+16 |         buzz,
+   |         ^^^^
+
+error: Expecting 13
+  --> tests/fail/math.rs:17:9
+   |
+17 |         fizz,
+   |         ^^^^
+
+error: Expecting 14
+  --> tests/fail/math.rs:18:9
+   |
+18 |         fizz_buzz,
+   |         ^^^^^^^^^
+
+error: Expecting fizz_buzz
+  --> tests/fail/math.rs:19:9
+   |
+19 |         15
+   |         ^^

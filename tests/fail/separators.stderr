@@ -1,0 +1,29 @@
+error: Expecting ','
+ --> tests/fail/separators.rs:5:11
+  |
+5 |         1 . 2| fizz; 4: buzz  fizz
+  |           ^
+
+error: Expecting ','
+ --> tests/fail/separators.rs:5:14
+  |
+5 |         1 . 2| fizz; 4: buzz  fizz
+  |              ^
+
+error: Expecting ','
+ --> tests/fail/separators.rs:5:20
+  |
+5 |         1 . 2| fizz; 4: buzz  fizz
+  |                    ^
+
+error: Expecting ','
+ --> tests/fail/separators.rs:5:23
+  |
+5 |         1 . 2| fizz; 4: buzz  fizz
+  |                       ^
+
+error: Expecting ','
+ --> tests/fail/separators.rs:5:31
+  |
+5 |         1 . 2| fizz; 4: buzz  fizz
+  |                               ^^^^
