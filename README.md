@@ -1,0 +1,1 @@
+A minimal (ish) repo for taiki-e/cargo-llvm-cov/issues/358
